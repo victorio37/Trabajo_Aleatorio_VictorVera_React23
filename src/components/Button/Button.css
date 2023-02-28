@@ -1,0 +1,10 @@
+.button {
+    color: white;
+    background-color: aliceblue;
+    padding: 30px;
+    background: light-gray;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    border: 2px solid #4CAF50;
+}

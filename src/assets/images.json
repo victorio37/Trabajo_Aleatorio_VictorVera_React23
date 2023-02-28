@@ -1,0 +1,14 @@
+[
+    {
+       "img": "src/components/images/imagen1.jpg"
+    },
+    {
+        "img": "src/components/images/imagen2.jpg"
+     },
+     {
+        "img": "src/components/images/imagen3.jpg"
+     },
+     {
+        "img": "src/components/images/imagen4.jpg"
+     }
+]
